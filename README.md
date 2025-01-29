@@ -1,1 +1,1 @@
-# N.U.R.A.
+# N.U.R.A. (Neural Unified Recognition Assistant ) 
