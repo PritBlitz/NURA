@@ -1,0 +1,13 @@
+Django==5.1.5
+djangorestframework==3.15.2
+numpy==1.26.4
+Pillow==10.4.0
+openai==1.61.0
+ffmpy==0.5.0
+Flask==3.0.3
+python-dotenv==1.0.1
+elevenlabs==1.50.6
+groq==0.16.0
+PyAudio==0.2.14
+pydub==0.25.1
+SpeechRecognition==3.14.1
